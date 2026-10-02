@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Submission/">
+    <Project Path="Services/Submission/Submission.API/Submission.API.csproj" Id="3487f7e7-ff1b-4f75-aadd-32640bb97799" />
+    <Project Path="Services/Submission/Submission.Application/Submission.Application.csproj" Id="6bd5b11a-015a-4168-a3bb-0bac9edd2b55" />
+    <Project Path="Services/Submission/Submission.Domain/Submission.Domain.csproj" Id="e4c30361-9fa3-4dd4-a955-b355b3a49244" />
+    <Project Path="Services/Submission/Submission.Persistence/Submission.Persistence.csproj" Id="182d5baa-75a7-4521-88ca-f1f53451f91b" />
+  </Folder>
+</Solution>
