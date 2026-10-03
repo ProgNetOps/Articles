@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Enterprise-NOC\\Desktop\\BLAZOR\\Articles\\src\\",
+  "WorkspaceRootPath": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BD5B11A-015A-4168-A3BB-0BAC9EDD2B55}|Services\\Submission\\Submission.Application\\Submission.Application.csproj|c:\\users\\enterprise-noc\\desktop\\blazor\\articles\\src\\services\\submission\\submission.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD5B11A-015A-4168-A3BB-0BAC9EDD2B55}|Services\\Submission\\Submission.Application\\Submission.Application.csproj|solutionrelative:services\\submission\\submission.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36FCE52F-B920-4C3B-BF77-F9F258DC55E0}|BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\buildingblocks\\articles.abstractions\\idresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FCE52F-B920-4C3B-BF77-F9F258DC55E0}|BuildingBlocks\\Articles.Abstractions\\Articles.Abstractions.csproj|solutionrelative:buildingblocks\\articles.abstractions\\idresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\services\\submission\\submission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|solutionrelative:services\\submission\\submission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\services\\submission\\submission.api\\endpoints\\endpointregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|solutionrelative:services\\submission\\submission.api\\endpoints\\endpointregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\services\\submission\\submission.api\\endpoints\\createarticleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|solutionrelative:services\\submission\\submission.api\\endpoints\\createarticleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\services\\submission\\submission.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3487F7E7-FF1B-4F75-AADD-32640BB97799}|Services\\Submission\\Submission.API\\Submission.API.csproj|solutionrelative:services\\submission\\submission.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD5B11A-015A-4168-A3BB-0BAC9EDD2B55}|Services\\Submission\\Submission.Application\\Submission.Application.csproj|c:\\users\\suber\\desktop\\blazor\\articles\\src\\services\\submission\\submission.application\\features\\createarticle\\createarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD5B11A-015A-4168-A3BB-0BAC9EDD2B55}|Services\\Submission\\Submission.Application\\Submission.Application.csproj|solutionrelative:services\\submission\\submission.application\\features\\createarticle\\createarticlecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Enterprise-NOC\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Services\\Submission\\Submission.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\Enterprise-NOC\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.Application\\Class1.cs",
-              "RelativeToolTip": "Services\\Submission\\Submission.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Submission\\Submission.API\\Program.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Program.cs",
+              "RelativeToolTip": "Services\\Submission\\Submission.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:03:02.49Z",
+              "WhenOpened": "2026-10-03T09:12:42.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndpointRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Endpoints\\EndpointRegistration.cs",
+              "RelativeDocumentMoniker": "Services\\Submission\\Submission.API\\Endpoints\\EndpointRegistration.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Endpoints\\EndpointRegistration.cs",
+              "RelativeToolTip": "Services\\Submission\\Submission.API\\Endpoints\\EndpointRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T09:09:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\BuildingBlocks\\Articles.Abstractions\\IdResponse.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Articles.Abstractions\\IdResponse.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\BuildingBlocks\\Articles.Abstractions\\IdResponse.cs",
+              "RelativeToolTip": "BuildingBlocks\\Articles.Abstractions\\IdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T09:06:48.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2037576793:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Services\\Submission\\Submission.API\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\GlobalUsings.cs",
+              "RelativeToolTip": "Services\\Submission\\Submission.API\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T08:48:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateArticleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "RelativeToolTip": "Services\\Submission\\Submission.Application\\Features\\CreateArticle\\CreateArticleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:20:05.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateArticleEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Endpoints\\CreateArticleEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Submission\\Submission.API\\Endpoints\\CreateArticleEndpoint.cs",
+              "ToolTip": "C:\\Users\\suber\\Desktop\\BLAZOR\\Articles\\src\\Services\\Submission\\Submission.API\\Endpoints\\CreateArticleEndpoint.cs",
+              "RelativeToolTip": "Services\\Submission\\Submission.API\\Endpoints\\CreateArticleEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T22:47:36.943Z",
               "EditorCaption": ""
             }
           ]
